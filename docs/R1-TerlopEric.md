@@ -14,18 +14,18 @@ This resource is an article that focuses on building a front-end developer portf
 A front-end developer portfolio is a collection of projects that showcase your skills as a web developer. It can include anything from simple websites to complex web applications. Your portfolio should be designed to show off your skills and highlight your best work. It is one of the best ways to show off your skills and attract potential employers. It should be well-designed, easy to navigate, and contain examples of your best work.
 
 * **How To Start Building Your Front-End Developer Portfolio**:<br>
- * Start with a custom logo
- * Create an online resume
- * build a portfolio website
- * Include a bio
- * Add sample projects
- * Add social media accounts
+ 	* Start with a custom logo
+ 	* Create an online resume
+ 	* build a portfolio website
+	 * Include a bio
+ 	* Add sample projects
+	 * Add social media accounts
 
  * **How To Market Your Portfolio As A Front-End Developer**:<br>
- * Share it with friends and family
- * Share it on LinkedIn
- * Post it on job boards
- * Learn about SEO
+	 * Share it with friends and family
+	 * Share it on LinkedIn
+	 * Post it on job boards
+	 * Learn about SEO
 
 * **What Are The Benefits Of Having A Front-End Developer Portfolio?**:<br>
 There are several advantages to having a front-end developer portfolio. Perhaps the most obvious is that it can help you land a job. A strong portfolio can showcase your skills and highlight your experience, which can make you an attractive candidate to potential employers.
@@ -96,30 +96,30 @@ As a developer at Bluleadz, you’re taking ownership of various website project
 The agency culture is fast-paced, so you’re managing various projects for different clients simultaneously. Somedays, you’re brainstorming site layouts, and other days, you’re finalizing code before a website’s launch day. You’re the expert in all things web development, ranging from concept to completion.
 
 * **Workday Tasks**:<br>
- * Write efficient code by adhering to software development best practices.
- * Collaborate with designers, specialists, and other team members to ensure a mutual understanding of expectations.
- * Conduct quality control checks by testing the functionality of web development projects.
- * Design and develop websites using HubSpot, along with creating landing pages and email templates.
- * Support marketing efforts by building brochure/marketing websites and interactive tools (e.g., surveys, estimators, calculators, etc.).
- * Optimize websites to ensure the best user experience by looking at speed, security, and mobile.
- * Create website experiences that result in an increase in lead generation and customer acquisition.
- * Work with the team to incorporate the latest technology to improve the quality of the user experience.
+	 * Write efficient code by adhering to software development best practices.
+	 * Collaborate with designers, specialists, and other team members to ensure a mutual understanding of expectations.
+	 * Conduct quality control checks by testing the functionality of web development projects.
+	 * Design and develop websites using HubSpot, along with creating landing pages and email templates.
+	 * Support marketing efforts by building brochure/marketing websites and interactive tools (e.g., surveys, estimators, calculators, etc.).
+	 * Optimize websites to ensure the best user experience by looking at speed, security, and mobile.
+	 * Create website experiences that result in an increase in lead generation and customer acquisition.
+	 * Work with the team to incorporate the latest technology to improve the quality of the user experience.
 
 * **Skills and Qualifications**:<br>
- * 2-5+ years of HubSpot CMS or WordPress experience. (HubSpot Preferred).
- * 2-5+ years of HTML5, CSS3, JQuery, and JavaScript, and PHP experience preferred.
- * Demonstrated expertise in Adobe Creative Cloud.
- * A passion for learning and staying in the loop on web development trends and an eagerness to educate others on your team.
- * Attention to detail and a good eye for modern web design.
- * Knowledge of inbound marketing best practices.
- * Authorization to work in the U.S. without employer sponsorship.
+	 * 2-5+ years of HubSpot CMS or WordPress experience. (HubSpot Preferred).
+	 * 2-5+ years of HTML5, CSS3, JQuery, and JavaScript, and PHP experience preferred.
+	 * Demonstrated expertise in Adobe Creative Cloud.
+	 * A passion for learning and staying in the loop on web development trends and an eagerness to educate others on your team.
+	 * Attention to detail and a good eye for modern web design.
+	 * Knowledge of inbound marketing best practices.
+	 * Authorization to work in the U.S. without employer sponsorship.
 
 * **Company Core Values**:<br>
- * Do the right thing.
- * Everything we do must be awesome.
- * Treat everyone with respect, honesty, and consideration.
- * Be passionate and have a can-do attitude.
- * Take ownership, be self-motivated, and reliable. 
+	 * Do the right thing.
+	 * Everything we do must be awesome.
+	 * Treat everyone with respect, honesty, and consideration.
+	 * Be passionate and have a can-do attitude.
+	 * Take ownership, be self-motivated, and reliable. 
 
 
 <br>
@@ -143,12 +143,12 @@ Our application developers are reponsible for all aspects of engineering project
 Demonstrated ability to provide creative solutions to technical challenges.
 
 * **Full Description**:<br>
- * Artistry using the LAMP platform: Linux, Apache, MySQL, PHP;
- * Demonstrated ability to provide creative solutions to technical challenges;
- * Our application developers are reponsible for all aspects of engineering projects, from product specifications to scheduling, implementation, testing, launch, and support
- * Bring all your hats - you'll need them.
- * Competitive compensation with comprehensive benefits package.
- * The staff is dedicated, the workplace is casual, and the espresso is free.
+	 * Artistry using the LAMP platform: Linux, Apache, MySQL, PHP;
+	 * Demonstrated ability to provide creative solutions to technical challenges;
+	 * Our application developers are reponsible for all aspects of engineering projects, from product specifications to scheduling, implementation, testing, launch, and support
+	 * Bring all your hats - you'll need them.
+	 * Competitive compensation with comprehensive benefits package.
+	 * The staff is dedicated, the workplace is casual, and the espresso is free.
 
 
 <br>
