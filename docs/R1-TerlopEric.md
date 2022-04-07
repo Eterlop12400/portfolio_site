@@ -7,14 +7,6 @@
 <br>
 
 
-## How to Build a Powerful Web Developer Portfolio
-This resource is an article that focuses on clean code practices, what clean code is, what it means for clean code to pass the smell tests, and much more. The article defines clean code as a consistent style of programming that makes your code easier to write, read, and maintain. Below are some key concepts and notes that I found useful from this resource.
-
-
-
-<br>
-
-
 ## Your Front End Developer Portfolio: Why It's So Important
 This resource is an article that focuses on building a front-end developer portfolio. The article covers many different topics such as what a front-end developer portfolio is, how to market your portfolio, how to make your portfolio stand out, and more. Below are some key concepts that I found helpful from the article. 
 
@@ -164,11 +156,6 @@ Demonstrated ability to provide creative solutions to technical challenges.
 
 
 ## Reference Links
-
-
-
-**How to Build a Powerful Web Developer Portfolio**  
-[arc.dev](https://arc.dev/developer-blog/web-developer-portfolio/) 
 
 **Your Front End Developer Portfolio: Why It's So Important**      
 [knowledgehut.com](https://www.knowledgehut.com/blog/web-development/frontend-developer-portfolio)
