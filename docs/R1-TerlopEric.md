@@ -70,8 +70,8 @@ Always keeping the experience of your user in mind not only makes your portfolio
 * **Take advantage of your homepage**:<br>
 You only get one chance to make a first impression, and this is exactly why the homepage of your web developer portfolio carries so much weight. Believe it or not, people are going to form an impression of your website after only 50 milliseconds (yes, that’s a real measure of time!). So, your homepage needs to immediately make the following clear:
 
- * Who you are
- * What you do
+ 	* Who you are
+ 	* What you do
 
 * **Be selective**:<br>
 You’re proud of all of your work—and, that’s great. But, unfortunately, people are only going to spend 10-15 seconds reviewing your portfolio. That’s actually further incentive to make sure that you’re sharing your very best stuff—rather than every web development project dating back to 2008.
