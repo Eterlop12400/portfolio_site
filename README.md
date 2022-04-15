@@ -4,7 +4,8 @@ This repo documents my progress for the professional portfolio that I am working
 **Week 1:**<br> 
 This week I will be conducting research into my target audience and making a portfolio proposal document. I will also be making my portfolio proposal pitch video showcasing my research and covering what I plan to include in my portfolio site and why.
 
-**Week 2:** n/a
+**Week 2:**<br>
+This week I will be conducting research into my marketing strategy, SEO plan, and analytics. I will also be making my stand up video for the week pitching my marketing plan. I will also continue to work on my portfolio site.
 
 **Week 3:** n/a
 

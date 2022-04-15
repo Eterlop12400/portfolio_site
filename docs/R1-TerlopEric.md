@@ -59,7 +59,7 @@ There are seven elements you absolutely need to include in your web developer po
 <br>
 
 ## 8 Tips to Build an Outstanding Web Developer Portfolio
-This resource is an article that focuses on explaining the importance of a portfolio and tips on what to include to make your portfolio more effective. The article explains that if you’re serious about your career in web development, you need your web developer portfolio at the ready. Below are some key concepts that I found helpful from the article.
+This resource is an article that focuses on explaining the importance of a portfolio and tips on what to include to make your portfolio more effective. The article states "if you’re serious about your career in web development, you need your web developer portfolio at the ready" (8 Tips to Build an Outstanding Web Developer Portfolio, 2017). Below are some key concepts that I found helpful from the article.
 
 * **Keep it simple**:<br>
 You want your work to take center stage—and, that’s going to be tough if that prospective client can’t wade his or her way through all of those custom features you’ve added. You can still create a beautiful and impressive website without making it cluttered and complicated. Resist the temptation to do things just because you can, and instead focus on the things that actually add value to your website. That’ll help you skip the unnecessary features and add-ons and instead keep the most important thing in the spotlight: your work.
